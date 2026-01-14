@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- currently working on game platform with Unreal
+- I'm currently working on game platform with Unreal
 
   
