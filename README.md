@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - I'm currently working on game platform with Unreal
-
-  
+- Discord: nightus3134
